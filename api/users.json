@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "firstName": "Charde", 
+        "lastName": "Marshall", 
+        "position": "Regional Director", 
+        "office": "San Francisco", 
+        "startdate": "16th Oct 08", 
+        "salary": "$470,600"
+    },
+    {
+        "id": 2,
+        "firstName": "Colleen", 
+        "lastName": "Hurst", 
+        "position": "Javascript Developer", 
+        "office": "San Francisco", 
+        "startdate": "15th Sep 09", 
+        "salary": "$205,500"
+    },
+    {
+        "id": 3,
+        "firstName": "Dai", 
+        "lastName": "Rios", 
+        "position": "Personnel Lead", 
+        "office": "Edinburgh", 
+        "startdate": "26th Sep 12", 
+        "salary": "$217,500"
+    },
+    {
+        "id": 4,
+        "firstName": "Donna", 
+        "lastName": "Snider", 
+        "position": "Customer Support", 
+        "office": "New York", 
+        "startdate": "25th Jan 11", 
+        "salary": "$112,000"
+    },
+    {
+        "id": 5,
+        "firstName": "Doris", 
+        "lastName": "Wilder", 
+        "position": "Sales Assistant", 
+        "office": "Sidney", 
+        "startdate": "20th Sep 10", 
+        "salary": "$85,600"
+    }
+]
